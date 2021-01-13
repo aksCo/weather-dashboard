@@ -21,7 +21,7 @@ function createListCities(citySearch) {
 
 function CityWeather(city, citySearch) {
     createListCities(citySearch);
-    var queryURL1 = "https://api.openweathermap.org/data/2.5/weather?&units=metric&appid=e9797fed1b8f5fa313f54a9250a79519&q=Sydney,Au" + city;
+    var queryURL1 = "https://api.openweathermap.org/data/2.5/weather?&units=metric&appid=e9797fed1b8f5fa313f54a9250a79519&q=" + city;
     //country code -- third example -- city name
 
     //api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
@@ -33,7 +33,7 @@ function CityWeather(city, citySearch) {
 
 
 
-    var queryURL2 = "https://api.openweathermap.org/data/2.5/forecast?&units=metric&appid=e9797fed1b8f5fa313f54a9250a79519&q=Sydney,Au" + city;
+    var queryURL2 = "https://api.openweathermap.org/data/2.5/forecast?&units=metric&appid=e9797fed1b8f5fa313f54a9250a79519&q=" + city;
 
     var latitude;
     var longitude;
