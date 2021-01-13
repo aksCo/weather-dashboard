@@ -11,7 +11,7 @@ How? Using JavaScript (including Moments.js, jQuery), HTML, CSS and APIs from Op
 
 ## Link to Deployed Application
 
-https://aksco.github.io/weatherdashboard/
+https://aksco.github.io/weather-dashboard/
 
 ## Usage
 
