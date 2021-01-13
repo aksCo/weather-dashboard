@@ -2,10 +2,10 @@
 
 ## Description 
 What? 
-A project that launches a Weather Dashboard for Sydney by making use of APIs from OpenWeather.
+A project that launches a Weather Dashboard by making use of APIs from OpenWeather.
 
 Why? 
-To enable the user to see the current weather for Sydney and the weather forecast for the next 5 days, in order to plan his/her day better.
+To enable the user to see the current weather and the weather forecast for the next 5 days, in order to plan his/her day better.
 
 How? Using JavaScript (including Moments.js, jQuery), HTML, CSS and APIs from OpenWeather.
 
